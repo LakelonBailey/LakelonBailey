@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a software developer with a passion for technology and building impactful solutions. Currently, I'm pursuing a BS in Computer Science at the University of Tennessee Knoxville, where I'm honing my skills and expanding my knowledge in software development and computer science fundamentals.
 
-- 🔭 I’m currently working on building data pipelines at IBM, automating internal processes at ACTprep.com, and building my [Personal Software Infrastructure](https://github.com/LakelonBailey/Personal-Software-Infrastructure).
+- 🔭 I’m currently working on building data pipelines at IBM, automating internal processes at ACTprep.com, and building the [SSO system](https://github.com/LakelonBailey/sso.lakelon.dev) for my [Personal Software Infrastructure](https://github.com/LakelonBailey/Personal-Software-Infrastructure).
 - 🌱 I’m currently learning Linux, Docker, and Nginx
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
