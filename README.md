@@ -15,9 +15,8 @@ Welcome to my GitHub! I'm a software developer with a passion for technology and
 
 ## 💼 Experience
 - **Data Software Engineer Co-op at IBM** (August 2023 – Present)
-- **Software Engineer at ACTprep.com Inc.** (March 2023 – Present)
+- **Software Engineer at ACTprep.com Inc.** (May 2022 – Present)
 - **Full-Stack Software Engineer Intern at IBM** (May 2023 – August 2023)
-- **Software Engineer at Make Me Modern Inc.** (August 2022 – March 2023)
 
 ## 🔧 Skills
 - **Languages:**
